@@ -16,6 +16,10 @@
   margin: 16px;
 }
 
+.cards-card-body {
+  background-color: rgb(224, 231, 180);
+}
+
 .cards .cards-card-image {
   line-height: 0;
 }
